@@ -1,0 +1,5 @@
+void glob;
+int glob1;
+string glob2;
+int main(int a, void b){
+}

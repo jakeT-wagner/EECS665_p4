@@ -1,0 +1,14 @@
+int glob1;
+int glob2;
+bool doesExist(int a, int b) {
+    while(glob2) {
+        doesExist(a, b);
+        a++;
+        b--;
+        read a;
+        write b;
+        a = -b;
+        a = !b;
+    }
+    return doesExist(a, b);
+}

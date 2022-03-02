@@ -1,0 +1,19 @@
+bool glob;
+int glob1;
+string glob2;
+int main(int a, bool b){
+	int c;
+	glob (bool) = a (int);
+	glob1 (int) = (@ a (int) + (& b (bool)));
+	glob1 (int) = (a (int) - c (int));
+	glob1 (int) = (glob1 (int) / glob2 (string));
+	glob1 (int) = (glob1 (int) * glob1 (int));
+	glob1 (int) = (glob1 (int) and glob2 (string));
+	glob2 (string) = (a (int) or b (bool));
+	glob2 (string) = (a (int) != b (bool));
+	glob (bool) = (a (int) <= b (bool));
+	glob (bool) = (a (int) < b (bool));
+	glob (bool) = (a (int) > b (bool));
+	glob (bool) = (a (int) >= b (bool));
+	glob (bool) = (a (int) == b (bool));
+}

@@ -1,0 +1,22 @@
+bool a;
+int test(int a, int b){
+	a (int) = b (int);
+}
+int fn(){
+	int c;
+	int d;
+	test (int, int->int)(c (int), d (int));
+	if (a (bool)){
+		bool b;
+		b (bool) = a (bool);
+	}
+	if (a (bool)){
+		bool b;
+		bool c;
+		a (bool) = (b (bool) and c (bool));
+	} else {
+		int b;
+		int c;
+		a (bool) = (b (int) > c (int));
+	}
+}

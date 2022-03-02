@@ -1,0 +1,24 @@
+bool a;
+int test(int a, int b) {
+    a = b;
+}
+int fn() {
+    int c;
+    int d;
+    test(c, d);
+    if (a) {
+        bool b;
+        b = a;
+    }
+
+    if (a) {
+        bool b;
+        bool c;
+        a = b and c;
+    }
+    else {
+        int b;
+        int c;
+        a = b > c;
+    }
+}

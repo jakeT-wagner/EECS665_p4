@@ -1,0 +1,19 @@
+string glob;
+int glob1;
+string glob2;
+int main(int a, bool b){
+	int c;
+	glob = a;
+	glob1 = @a + &b;
+	glob1 = a - c;
+	glob1 = glob1 / glob2;
+	glob1 = glob1 * glob1;
+	glob1 = glob1 and glob2;
+	glob2 = a or b;
+	glob2 = a != b;
+	glob = a <= b;
+	glob = a < b;
+	glob = a > b;
+	glob = a >= b;
+	glob = a==b;
+}
