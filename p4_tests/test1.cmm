@@ -1,0 +1,13 @@
+int a(int b) {
+    if (true) {
+        int b;
+        while (true) {
+            int b;
+            if (true) {
+                int b;
+                int b;
+            }
+            int b;
+        }
+    }
+}

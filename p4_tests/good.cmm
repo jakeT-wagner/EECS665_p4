@@ -1,0 +1,40 @@
+int a;
+int b;
+string str;
+bool c;
+int v;
+
+void fn() {
+	write a;
+	write b;
+	read a;
+	return a + b;
+}
+
+int cc(int n1, int n2) {
+	if (c) {
+		if (n1 >= n2){
+			string str2;
+			while (str2 != "2") {
+				string n1;
+				c = 3;
+				return n1;
+			}
+		}
+		else {
+			string aaa;
+		}
+	}
+}
+
+int ccc(bool b2) {
+	int hhhhh;
+}
+
+void main() {
+	int n1;
+	int n2;
+	n2 = a + b;
+	n1 = b; 
+	cc(n1, n2);
+}

@@ -1,0 +1,45 @@
+int a;
+int b;
+string str;
+bool c;
+int v;
+void v;
+
+void a() {
+	write pp;
+	write b;
+	read a;
+	return a + b;
+	cc(1, 2);
+}
+
+int cc(int n1, int n2) {
+	if (c) {
+		if (n1 >= n2){
+			string str2;
+			while (ooo != "2") {
+				string n1;
+				if (n1 == "string") {
+					int n1;
+					bool n1;
+				}
+				c = 3;
+			}
+		}
+		else {
+			string aaa;
+		}
+	}
+}
+
+int cc(void bad) {
+	hhhhh = 2;
+}
+
+void main() {
+	int n1;
+	int n2;
+	n2 = a + b;
+	n1 = b; 
+	c(n1, n2);
+}
